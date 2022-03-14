@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head itemscope itemtype="http://schema.org/WebSite">
+	<meta charset="UTF-8">
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+	<!--[if IE ]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<![endif]-->
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+	
+        
+        
+        
+                    <meta name="viewport" content="width=device-width, initial-scale=1">
+            <meta name="apple-mobile-web-app-capable" content="yes">
+            <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        
+        
+        <meta itemprop="name" content="Math ∞ Blog" />
+        <meta itemprop="url" content="https://mathblog.com" />
+
+                                                <meta itemprop="creator accountablePerson" content="Michael Goldenberg" />
+                    	<link rel="pingback" href="https://mathblog.com/xmlrpc.php" />
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<script type="text/javascript">document.documentElement.className = document.documentElement.className.replace( /\bno-js\b/,'js' );</script>
+	<!-- This site is optimized with the Yoast SEO plugin v17.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Review: Problem Solving and Reasoning With Discrete Mathematics | Math ∞ Blog</title>
+	<link rel="canonical" href="https://mathblog.com/review-problem-solving-reasoning-discrete-mathematics/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Review: Problem Solving and Reasoning With Discrete Mathematics | Math ∞ Blog" />
+	<meta property="og:description" content="&nbsp; &nbsp; &nbsp; Book Review: PROBLEM SOLVING AND REASONING WITH DISCRETE MATHEMATICS by Dr. Joseph G. Rosenstein US K-12 mathematics has long been dominated by the notion that any legitimate pathway through high school and into college requires passing over Calculus Mountain. It isn’t a real mountain, but it might as well be for those who wish to pursue certain professions, not all of which actually make use of calculus at the graduate or professional school level or indeed in those professions in the field. In particular, medicine, dentistry, veterinary medicine, and other prestigious branches of “the healing arts” make" />
+	<meta property="og:url" content="https://mathblog.com/review-problem-solving-reasoning-discrete-mathematics/" />
+	<meta property="og:site_name" content="Math ∞ Blog" />
+	<meta property="article:publisher" content="https://www.facebook.com/mathblogcom/" />
+	<meta property="article:published_time" content="2017-11-21T22:45:52+00:00" />
+	<meta property="article:modified_time" content="2017-12-08T14:48:30+00:00" />
+	<meta property="og:image" content="https://cdn.mathblog.com/wp-content/uploads/2017/11/Discrete-Math.jpg" />
+	<meta name="twitter:card" content="summary" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://mathblog.com/#website","url":"https://mathblog.com/","name":"Math \u221e Blog","description":"Mathematics is wonderful!","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://mathblog.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://mathblog.com/review-problem-solving-reasoning-discrete-mathematics/#primaryimage","inLanguage":"en-US","url":"https://cdn.mathblog.com/wp-content/uploads/2017/11/Discrete-Math.jpg","contentUrl":"https://cdn.mathblog.com/wp-content/uploads/2017/11/Discrete-Math.jpg","width":218,"height":218},{"@type":"WebPage","@id":"https://mathblog.com/review-problem-solving-reasoning-discrete-mathematics/#webpage","url":"https://mathblog.com/review-problem-solving-reasoning-discrete-mathematics/","name":"Review: Problem Solving and Reasoning With Discrete Mathematics | Math \u221e Blog","isPartOf":{"@id":"https://mathblog.com/#website"},"primaryImageOfPage":{"@id":"https://mathblog.com/review-problem-solving-reasoning-discrete-mathematics/#primaryimage"},"datePublished":"2017-11-21T22:45:52+00:00","dateModified":"2017-12-08T14:48:30+00:00","author":{"@id":"https://mathblog.com/#/schema/person/41b3e53fc120768a8f8e7b7edc916834"},"breadcrumb":{"@id":"https://mathblog.com/review-problem-solving-reasoning-discrete-mathematics/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://mathblog.com/review-problem-solving-reasoning-discrete-mathematics/"]}]},{"@type":"BreadcrumbList","@id":"https://mathblog.com/review-problem-solving-reasoning-discrete-mathematics/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://mathblog.com/"},{"@type":"ListItem","position":2,"name":"Review: Problem Solving and Reasoning With Discrete Mathematics"}]},{"@type":"Person","@id":"https://mathblog.com/#/schema/person/41b3e53fc120768a8f8e7b7edc916834","name":"Michael Goldenberg","image":{"@type":"ImageObject","@id":"https://mathblog.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/457375c2686d2ce6aa9740f00ee2f8f4?s=96&d=identicon&r=g","contentUrl":"https://secure.gravatar.com/avatar/457375c2686d2ce6aa9740f00ee2f8f4?s=96&d=identicon&r=g","caption":"Michael Goldenberg"},"description":"I am a mathematics educator with over 30 years' experience teaching mathematics at the elementary, middle school, high school, and community college levels. I have master's degree in mathematics education from the University of Michigan-Ann Arbor. In another lifetime, I earned a master's in English from the University of Florida. I have been field supervisor of secondary mathematics student teachers for the University of Michigan, where I also taught mathematics methods courses to prospective elementary teachers. I've been a math content coach for elementary and secondary in-service teachers in Detroit, Pontiac, Warren, Ypsilanti, and other high-needs districts in Michigan, as well as in New York City. I have a dormant math blog, RationalMathEd, in which I attempted to do some good in sorting out the \"Math Wars.\" I was a founding member of the math education information site, Mathematically Sane. I have a 22-year-old son, Zane, who is studying to be a biomedical engineer, and five rescue cats: Dante, Arya, Athos, Lyra, and Sterling, as well as the scars to prove it. When not teaching, blogging, or stirring the pot, I play a reasonably dangerous game of table tennis.","url":"https://mathblog.com/author/mgoldenberg/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//scripts.mediavine.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Math ∞ Blog &raquo; Feed" href="https://mathblog.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Math ∞ Blog &raquo; Comments Feed" href="https://mathblog.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Math ∞ Blog &raquo; Review: Problem Solving and Reasoning With Discrete Mathematics Comments Feed" href="https://mathblog.com/review-problem-solving-reasoning-discrete-mathematics/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cdn.mathblog.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://cdn.mathblog.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='aalb_basics_css-css'  href='https://cdn.mathblog.com/wp-content/plugins/amazon-associates-link-builder/css/aalb_basics.css' type='text/css' media='all' />
+<link rel='stylesheet' id='titan-adminbar-styles-css'  href='https://cdn.mathblog.com/wp-content/plugins/anti-spam/assets/css/admin-bar.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://cdn.mathblog.com/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp_review-style-css'  href='https://cdn.mathblog.com/wp-content/plugins/wp-review-pro/assets/css/wp-review.css' type='text/css' media='all' />
+<link rel='stylesheet' id='schema-stylesheet-css'  href='https://cdn.mathblog.com/wp-content/themes/mts_schema/style.css' type='text/css' media='all' />
+<style id='schema-stylesheet-inline-css' type='text/css'>
+
+         body {background-color:#eeeeee;background-image:url(https://cdn.mathblog.com/wp-content/themes/mts_schema/images/pattern13.png);}
+        .pace .pace-progress, #mobile-menu-wrapper ul li a:hover, .page-numbers.current, .pagination a:hover, .single .pagination a:hover .current { background: #0274BE; }
+        .postauthor h5, .single_post a, .textwidget a, .pnavigation2 a, .sidebar.c-4-12 a:hover, footer .widget li a:hover, .sidebar.c-4-12 a:hover, .reply a, .title a:hover, .post-info a:hover, .widget .thecomment, #tabber .inside li a:hover, .readMore a:hover, .fn a, a, a:hover, #secondary-navigation .navigation ul li a:hover, .readMore a, #primary-navigation a:hover, #secondary-navigation .navigation ul .current-menu-item a, .widget .wp_review_tab_widget_content a, .sidebar .wpt_widget_content a { color:#0274BE; }
+         a#pull, #commentform input#submit, #mtscontact_submit, .mts-subscribe input[type='submit'], .widget_product_search input[type='submit'], #move-to-top:hover, .currenttext, .pagination a:hover, .pagination .nav-previous a:hover, .pagination .nav-next a:hover, #load-posts a:hover, .single .pagination a:hover .currenttext, .single .pagination > .current .currenttext, #tabber ul.tabs li a.selected, .tagcloud a, .navigation ul .sfHover a, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce .bypostauthor:after, #searchsubmit, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce-page nav.woocommerce-pagination ul li span.current, .woocommerce #content nav.woocommerce-pagination ul li span.current, .woocommerce-page #content nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li a:hover, .woocommerce #content nav.woocommerce-pagination ul li a:hover, .woocommerce-page #content nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce-page nav.woocommerce-pagination ul li a:focus, .woocommerce #content nav.woocommerce-pagination ul li a:focus, .woocommerce-page #content nav.woocommerce-pagination ul li a:focus, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .latestPost-review-wrapper, .latestPost .review-type-circle.latestPost-review-wrapper, #wpmm-megamenu .review-total-only, .sbutton, #searchsubmit, .widget .wpt_widget_content #tags-tab-content ul li a, .widget .review-total-only.large-thumb, #add_payment_method .wc-proceed-to-checkout a.checkout-button, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce-checkout .wc-proceed-to-checkout a.checkout-button, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce-account .woocommerce-MyAccount-navigation li.is-active { background-color:#0274BE; color: #fff!important; }
+        .related-posts .title a:hover, .latestPost .title a { color: #0274BE; }
+        .navigation #wpmm-megamenu .wpmm-pagination a { background-color: #0274BE!important; }
+        footer {background-color:#222222; }
+        footer {background-image: url( https://cdn.mathblog.com/wp-content/themes/mts_schema/images/nobg.png );}
+        .copyrights { background-color: #ffffff; }
+        .flex-control-thumbs .flex-active{ border-top:3px solid #0274BE;}
+        .wpmm-megamenu-showing.wpmm-light-scheme { background-color:#0274BE!important; }
+        
+        
+        
+        .bypostauthor > div { overflow: hidden; padding: 3%!important; background: #222; width: 94%!important; color: #AAA; }
+		.bypostauthor:after { content: "\f044"; position: absolute; font-family: fontawesome; right: 0; top: 0; padding: 1px 10px; color: #535353; font-size: 32px; }
+        
+        .page h1.title {
+    margin-bottom: 20px;
+}
+
+table th, table td {
+    vertical-align: middle;
+}
+
+.mathcode
+{
+        border: 2px solid orange;
+        font-family: courier;
+        font-size: 17px;
+        background-color: #ffffcc;
+        padding: 5px;
+        overflow: auto;
+        color: #000;
+}
+
+.book {
+        border:  1px solid #119900;
+        padding: 10px;
+        padding-bottom: 0px;
+        margin-bottom:  10px;
+}
+
+.green{
+        background-color: #ccffcc;
+}
+
+.yellow {
+        background-color: #ffffcc;
+}
+
+.book img {
+        float: left;
+        margin-right: 7px;
+        border: none;
+}
+
+.book h3 {
+        margin-top:  5px;
+        margin-bottom:  5px;
+}
+
+.book p {
+        font-size: 13px;
+}
+
+.book p a {
+        font-weight: bold;
+        text-decoration: underline;
+}
+
+h1.book-category {
+  color: #000;
+  margin-top: 40px;
+}
+
+
+#wp-subscribe h4.title {
+    font-size: 18px !important;
+    line-height: 140% !important;
+}
+
+
+#regular-header {
+    height: 100px;
+    margin-bottom: 30px;
+}
+
+.regular_header div#primary-nav {
+    margin-bottom: -30px;
+}
+
+.featured-thumbnail img {
+    width: 200px;
+}
+
+#header {
+    background: #0e74b2;
+}
+header .post-info {
+    font-size: 13px;
+}
+
+#sidebar .widget.widget_search, #sidebar .widget.widget_search h3 {
+    color: #000;
+    background-color: #fff;
+}
+			
+</style>
+<link rel='stylesheet' id='responsive-css'  href='https://cdn.mathblog.com/wp-content/themes/mts_schema/css/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='magnificPopup-css'  href='https://cdn.mathblog.com/wp-content/themes/mts_schema/css/magnific-popup.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='https://cdn.mathblog.com/wp-content/themes/mts_schema/css/font-awesome.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://cdn.mathblog.com/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://cdn.mathblog.com/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<script type='text/javascript' async="async" data-noptimize="1" data-cfasync="false" src='https://scripts.mediavine.com/tags/math-blog.js' id='mv-script-wrapper-js'></script>
+<script type='text/javascript' id='tho-header-js-js-extra'>
+/* <![CDATA[ */
+var THO_Head = {"variations":{"997":{"variations":{"19":"Are Fingerprints Unique?","20":"Are Fingerprints Really Unique?","21":"Can All Fingerprints Really Be Unique?","22":"Why Our Fingerprints Are Unique"},"test_id":"4","winners":[]}},"post_id":"119969","element_tag":"thrive_headline","woo_tag":"tho_woo"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.mathblog.com/wp-content/plugins/thrive-headline-optimizer/frontend/js/header.min.js' id='tho-header-js-js'></script>
+<script type='text/javascript' id='customscript-js-extra'>
+/* <![CDATA[ */
+var mts_customscript = {"responsive":"1","nav_menu":"both"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.mathblog.com/wp-content/themes/mts_schema/js/customscript.js' id='customscript-js'></script>
+<link rel="https://api.w.org/" href="https://mathblog.com/wp-json/" /><link rel="alternate" type="application/json" href="https://mathblog.com/wp-json/wp/v2/posts/119969" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mathblog.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cdn.mathblog.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9.1" />
+<link rel='shortlink' href='https://mathblog.com/?p=119969' />
+<link rel="alternate" type="application/json+oembed" href="https://mathblog.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmathblog.com%2Freview-problem-solving-reasoning-discrete-mathematics%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://mathblog.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmathblog.com%2Freview-problem-solving-reasoning-discrete-mathematics%2F&#038;format=xml" />
+<script type='text/javascript'>window.presslabs = {"home_url":"https:\/\/mathblog.com"}</script><script type='text/javascript'>
+	(function () {
+		var pl_beacon = document.createElement('script');
+		pl_beacon.type = 'text/javascript';
+		pl_beacon.async = true;
+		var host = 'https://mathblog.com';
+		if ('https:' == document.location.protocol) {
+			host = host.replace('http://', 'https://');
+		}
+		pl_beacon.src = host + '/' + '2WOFDurG0lJJ' + '.js?ts=' + Math.floor((Math.random() * 100000) + 1);
+		var first_script_tag = document.getElementsByTagName('script')[0];
+		first_script_tag.parentNode.insertBefore(pl_beacon, first_script_tag);
+	})();
+</script><!--[if IE 7]>
+<link rel="stylesheet" href="https://cdn.mathblog.com/wp-content/plugins/wp-review-pro/assets/css/wp-review-ie7.css">
+<![endif]-->
+
+<style type="text/css">
+#logo a { font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 48px; color: #1e73be;text-transform: uppercase; }
+#primary-navigation a { font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 17px; color: #777777; }
+#secondary-navigation a { font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 15px; color: #ffffff;text-transform: uppercase; }
+.latestPost .title a { font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 38px; color: #0274be; }
+.single-title { font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 38px; color: #222222; }
+body { font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 18px; color: #444444; }
+#sidebar .widget h3 { font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 20px; color: #222222;text-transform: uppercase; }
+#sidebar .widget { font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 16px; color: #444444; }
+.footer-widgets h3 { font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 18px; color: #ffffff;text-transform: uppercase; }
+.f-widget a, footer .wpt_widget_content a, footer .wp_review_tab_widget_content a, footer .wpt_tab_widget_content a, footer .widget .wp_review_tab_widget_content a { font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 16px; color: #999999; }
+.footer-widgets, .f-widget .top-posts .comment_num, footer .meta, footer .twitter_time, footer .widget .wpt_widget_content .wpt-postmeta, footer .widget .wpt_comment_content, footer .widget .wpt_excerpt, footer .wp_review_tab_widget_content .wp-review-tab-postmeta, footer .advanced-recent-posts p, footer .popular-posts p, footer .category-posts p { font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 16px; color: #777777; }
+#copyright-note { font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 14px; color: #7e7d7d; }
+h1 { font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 28px; color: #222222; }
+h2 { font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 24px; color: #222222; }
+h3 { font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 22px; color: #222222; }
+h4 { font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 20px; color: #222222; }
+h5 { font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 18px; color: #222222; }
+h6 { font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 16px; color: #222222; }
+</style>
+<style type="text/css" media="all">
+/* <![CDATA[ */
+@import url("https://cdn.mathblog.com/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.4");
+@import url("https://cdn.mathblog.com/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.4");
+/* ]]> */
+</style>		<style type="text/css" id="wp-custom-css">
+			#page {
+	width: 1200px;
+}
+
+.sidebar.c-4-12 {
+	width: 340px;
+}
+
+@media screen and (min-width: 769px) {
+	.article {
+    width: calc(100% - 360px)!important;
+    padding: 3rem;
+		line-height:2;
+	}
+}
+
+.article {
+	width: 100%;
+}		</style>
+		</head>
+<body id="blog" class="post-template-default single single-post postid-119969 single-format-standard main" itemscope itemtype="http://schema.org/WebPage">       
+	<div class="main-container">
+		<header id="site-header" class="main-header regular_header" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+							<div id="primary-nav">
+					<div class="container">
+				        <div id="primary-navigation" class="primary-navigation" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+					        <nav class="navigation clearfix">
+						     							<ul id="menu-top-menu" class="menu clearfix"><li id="menu-item-130999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-130999"><a href="https://mathblog.com/">Homepage</a></li>
+<li id="menu-item-109027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109027"><a title="Recommended Math Books" href="https://mathblog.com/mathematics-books/">Recommended Math Books</a></li>
+<li id="menu-item-109028" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109028"><a href="https://mathblog.com/about-us/">About</a></li>
+<li id="menu-item-109030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109030"><a href="https://mathblog.com/privacy-policy/">Privacy Policy</a></li>
+</ul>						    				            												        </nav>
+				    	</div>
+				    </div>
+			    </div>
+									    <div id="regular-header">
+			    	<div class="container">
+						<div class="logo-wrap">
+																								<h2 id="logo" class="text-logo" itemprop="headline">
+										<a href="https://mathblog.com">Math ∞ Blog</a>
+									</h2><!-- END #logo -->
+																					</div>
+											</div>
+				</div>
+									<div id="header">
+						    <div class="container">
+				    					<div id="secondary-navigation" class="secondary-navigation" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<a href="#" id="pull" class="toggle-mobile-menu">Menu</a>
+													<nav class="navigation clearfix mobile-menu-wrapper">
+																	<ul id="menu-categories" class="menu clearfix"><li id="menu-item-108811" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-108811"><a href="https://mathblog.com/category/books/"><i class="fa fa-book"></i> Books</a></li>
+<li id="menu-item-108810" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-108810"><a href="https://mathblog.com/category/applied-math/"><i class="fa fa-cogs"></i> Applied Math</a></li>
+<li id="menu-item-112290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-112290"><a href="https://mathblog.com/reference/"><i class="fa fa-anchor"></i> Basic Math</a>
+<ul class="sub-menu">
+	<li id="menu-item-113248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-113248"><a href="https://mathblog.com/reference/arithmetic/">Arithmetic</a>
+	<ul class="sub-menu">
+		<li id="menu-item-113251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113251"><a href="https://mathblog.com/reference/arithmetic/arithmetic-sequence/">Arithmetic Sequence</a></li>
+		<li id="menu-item-113253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113253"><a href="https://mathblog.com/reference/arithmetic/number-theory/">Number Theory</a></li>
+		<li id="menu-item-113254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113254"><a href="https://mathblog.com/reference/arithmetic/whole-numbers/">Whole Numbers</a></li>
+		<li id="menu-item-113255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113255"><a href="https://mathblog.com/reference/arithmetic/rounding/">Rounding</a></li>
+		<li id="menu-item-113256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113256"><a href="https://mathblog.com/reference/arithmetic/estimation/">Estimation</a></li>
+		<li id="menu-item-113257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113257"><a href="https://mathblog.com/reference/arithmetic/place-value/">Place Value</a></li>
+		<li id="menu-item-113258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113258"><a href="https://mathblog.com/reference/arithmetic/addition/">Addition</a></li>
+		<li id="menu-item-113259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113259"><a href="https://mathblog.com/reference/arithmetic/subtraction/">Subtraction</a></li>
+		<li id="menu-item-113260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113260"><a href="https://mathblog.com/reference/arithmetic/negative-numbers/">Negative Numbers</a></li>
+		<li id="menu-item-113261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113261"><a href="https://mathblog.com/reference/arithmetic/multiplication/">Multiplication</a></li>
+		<li id="menu-item-113262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113262"><a href="https://mathblog.com/reference/arithmetic/prime-factorization/">Prime Factorization</a></li>
+		<li id="menu-item-113263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113263"><a href="https://mathblog.com/reference/arithmetic/decimals/">Decimals</a></li>
+		<li id="menu-item-113264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113264"><a href="https://mathblog.com/reference/arithmetic/division/">Division</a></li>
+		<li id="menu-item-113265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113265"><a href="https://mathblog.com/reference/arithmetic/fractions/">Fractions</a></li>
+		<li id="menu-item-113266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113266"><a href="https://mathblog.com/reference/arithmetic/how-to-find-the-mean/">Find The Mean</a></li>
+		<li id="menu-item-113267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113267"><a href="https://mathblog.com/reference/arithmetic/how-to-find-the-median/">Find The Median</a></li>
+		<li id="menu-item-113268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113268"><a href="https://mathblog.com/reference/arithmetic/how-to-find-the-mode/">Find The Mode</a></li>
+		<li id="menu-item-113269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113269"><a href="https://mathblog.com/reference/arithmetic/order-of-operations/">Order of Operations</a></li>
+		<li id="menu-item-113270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113270"><a href="https://mathblog.com/reference/arithmetic/percentages/">Percentages</a></li>
+		<li id="menu-item-113271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113271"><a href="https://mathblog.com/reference/arithmetic/probability/">Probability</a></li>
+		<li id="menu-item-113272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113272"><a href="https://mathblog.com/reference/arithmetic/ratios/">Ratios</a></li>
+		<li id="menu-item-113274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113274"><a href="https://mathblog.com/reference/arithmetic/absolute-value/">Absolute Value</a></li>
+		<li id="menu-item-113273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113273"><a href="https://mathblog.com/reference/arithmetic/number-line/">Number Line</a></li>
+		<li id="menu-item-113275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113275"><a href="https://mathblog.com/reference/arithmetic/equations/">Equations</a></li>
+		<li id="menu-item-113276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113276"><a href="https://mathblog.com/reference/arithmetic/distance-two-points/">Distance Between Two Points</a></li>
+		<li id="menu-item-113277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113277"><a href="https://mathblog.com/reference/arithmetic/logarithm/">Logarithm</a></li>
+		<li id="menu-item-113278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113278"><a href="https://mathblog.com/reference/arithmetic/fibonacci-sequence/">Fibonacci Sequence</a></li>
+	</ul>
+</li>
+	<li id="menu-item-113250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-113250"><a href="https://mathblog.com/reference/geometry/">Geometry</a>
+	<ul class="sub-menu">
+		<li id="menu-item-113279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-113279"><a href="https://mathblog.com/reference/geometry/triangles/">Triangles</a>
+		<ul class="sub-menu">
+			<li id="menu-item-113285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113285"><a href="https://mathblog.com/reference/geometry/right-triangle/">Right Triangle</a></li>
+			<li id="menu-item-113280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113280"><a href="https://mathblog.com/reference/geometry/sss-triangles/">SSS Triangles</a></li>
+			<li id="menu-item-113281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113281"><a href="https://mathblog.com/reference/geometry/ssa-triangle/">SSA Triangle</a></li>
+			<li id="menu-item-113282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113282"><a href="https://mathblog.com/reference/geometry/sas-triangle/">SAS Triangle</a></li>
+			<li id="menu-item-113284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113284"><a href="https://mathblog.com/reference/geometry/asa-triangles/">ASA Triangles</a></li>
+		</ul>
+</li>
+		<li id="menu-item-113286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113286"><a href="https://mathblog.com/reference/geometry/angles/">Angles</a></li>
+		<li id="menu-item-113287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113287"><a href="https://mathblog.com/reference/geometry/area/">Area</a></li>
+		<li id="menu-item-113288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-113288"><a href="https://mathblog.com/reference/geometry/circle/">Circle</a>
+		<ul class="sub-menu">
+			<li id="menu-item-113289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113289"><a href="https://mathblog.com/reference/geometry/circumference/">Circumference</a></li>
+		</ul>
+</li>
+		<li id="menu-item-113309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113309"><a href="https://mathblog.com/reference/geometry/area-of-a-square/">Area of a Square</a></li>
+		<li id="menu-item-113306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113306"><a href="https://mathblog.com/reference/geometry/sphere/">Sphere</a></li>
+		<li id="menu-item-113290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113290"><a href="https://mathblog.com/reference/geometry/cone/">Cone</a></li>
+		<li id="menu-item-113292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113292"><a href="https://mathblog.com/reference/geometry/cylinder/">Cylinder</a></li>
+		<li id="menu-item-113293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113293"><a href="https://mathblog.com/reference/geometry/heptagon/">Heptagon</a></li>
+		<li id="menu-item-113291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113291"><a href="https://mathblog.com/reference/geometry/congruent-shapes/">Congruent Shapes</a></li>
+		<li id="menu-item-113294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113294"><a href="https://mathblog.com/reference/geometry/hexagon/">Hexagon</a></li>
+		<li id="menu-item-113295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113295"><a href="https://mathblog.com/reference/geometry/octagon/">Octagon</a></li>
+		<li id="menu-item-113298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113298"><a href="https://mathblog.com/reference/geometry/pentagon/">So You Want to Know About Pentagons?</a></li>
+		<li id="menu-item-113296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113296"><a href="https://mathblog.com/reference/geometry/parallel-lines/">Parallel Lines</a></li>
+		<li id="menu-item-113297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113297"><a href="https://mathblog.com/reference/geometry/parallelogram/">Parallelogram</a></li>
+		<li id="menu-item-113299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113299"><a href="https://mathblog.com/reference/geometry/pi/">Pi</a></li>
+		<li id="menu-item-113300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113300"><a href="https://mathblog.com/reference/geometry/polygon/">Polygon</a></li>
+		<li id="menu-item-113303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113303"><a href="https://mathblog.com/reference/geometry/rectangle/">Rectangle</a></li>
+		<li id="menu-item-113301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113301"><a href="https://mathblog.com/reference/geometry/pyramid/">Pyramid</a></li>
+		<li id="menu-item-113304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113304"><a href="https://mathblog.com/reference/geometry/rectangular-pyramid/">Rectangular Pyramid</a></li>
+		<li id="menu-item-113305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113305"><a href="https://mathblog.com/reference/geometry/rhombus/">Rhombus</a></li>
+		<li id="menu-item-113308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113308"><a href="https://mathblog.com/reference/geometry/trapezoid/">Trapezoid</a></li>
+		<li id="menu-item-113307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113307"><a href="https://mathblog.com/reference/geometry/tessellations/">Tessellations</a></li>
+		<li id="menu-item-113302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113302"><a href="https://mathblog.com/reference/geometry/radian-measure/">Radian Measure</a></li>
+	</ul>
+</li>
+	<li id="menu-item-113247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-113247"><a href="https://mathblog.com/reference/algebra/">Algebra</a>
+	<ul class="sub-menu">
+		<li id="menu-item-113310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113310"><a href="https://mathblog.com/reference/algebra/interval-notation/">Interval Notation</a></li>
+		<li id="menu-item-113311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113311"><a href="https://mathblog.com/reference/algebra/how-to-calculate-slope/">How To Calculate Slope</a></li>
+		<li id="menu-item-113312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113312"><a href="https://mathblog.com/reference/algebra/factoring/">Factoring</a></li>
+		<li id="menu-item-113313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113313"><a href="https://mathblog.com/reference/algebra/binomial-expansion/">Binomial Expansion</a></li>
+		<li id="menu-item-113314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113314"><a href="https://mathblog.com/reference/algebra/matrix-algebra/">Matrix Algebra</a></li>
+		<li id="menu-item-113315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113315"><a href="https://mathblog.com/reference/algebra/linear-programming/">Linear Programming</a></li>
+		<li id="menu-item-113316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113316"><a href="https://mathblog.com/reference/algebra/quadratic-formula/">Quadratic Formula</a></li>
+		<li id="menu-item-113317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113317"><a href="https://mathblog.com/reference/algebra/variables-with-exponents/">Variables with Exponents</a></li>
+		<li id="menu-item-113318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113318"><a href="https://mathblog.com/reference/algebra/synthetic-division/">Synthetic Division</a></li>
+		<li id="menu-item-113319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113319"><a href="https://mathblog.com/reference/algebra/inverse-functions/">Inverse Functions</a></li>
+		<li id="menu-item-113320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113320"><a href="https://mathblog.com/reference/algebra/asymptotes/">Asymptotes</a></li>
+		<li id="menu-item-113321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113321"><a href="https://mathblog.com/reference/algebra/hyperbolas/">Hyperbolas</a></li>
+		<li id="menu-item-113322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113322"><a href="https://mathblog.com/reference/algebra/graphing-inequalities/">Graphing Inequalities</a></li>
+	</ul>
+</li>
+	<li id="menu-item-113252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-113252"><a href="https://mathblog.com/reference/trigonometry/">Trigonometry</a>
+	<ul class="sub-menu">
+		<li id="menu-item-113323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113323"><a href="https://mathblog.com/reference/trigonometry/law-of-cosines/">Law of Cosines</a></li>
+		<li id="menu-item-113324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113324"><a href="https://mathblog.com/reference/trigonometry/law-of-sines/">Law of Sines</a></li>
+		<li id="menu-item-113325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113325"><a href="https://mathblog.com/reference/trigonometry/trig-ratios/">Trig Ratios</a></li>
+		<li id="menu-item-113326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113326"><a href="https://mathblog.com/reference/trigonometry/trig-integrals/">Trig Integrals</a></li>
+		<li id="menu-item-113327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113327"><a href="https://mathblog.com/reference/trigonometry/right-triangle-trig/">Right Triangle Trig</a></li>
+		<li id="menu-item-113328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113328"><a href="https://mathblog.com/reference/trigonometry/trig-functions/">Trig Functions</a></li>
+	</ul>
+</li>
+	<li id="menu-item-113249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-113249"><a href="https://mathblog.com/reference/calculus/">Calculus</a>
+	<ul class="sub-menu">
+		<li id="menu-item-113329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113329"><a href="https://mathblog.com/reference/calculus/minima-and-maxima/">Minima and Maxima</a></li>
+		<li id="menu-item-113330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113330"><a href="https://mathblog.com/reference/calculus/improper-integrals/">Improper Integrals</a></li>
+		<li id="menu-item-113331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113331"><a href="https://mathblog.com/reference/calculus/definite-integrals/">Definite Integrals</a></li>
+	</ul>
+</li>
+	<li id="menu-item-113332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-113332"><a href="https://mathblog.com/reference/theorems/">Theorems</a>
+	<ul class="sub-menu">
+		<li id="menu-item-113333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113333"><a href="https://mathblog.com/reference/theorems/pythagorean-theorem/">Pythagorean Theorem</a></li>
+		<li id="menu-item-113334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113334"><a href="https://mathblog.com/reference/theorems/bayes-theorem/">Bayes&#8217; Theorem</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-108812" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-108812"><a href="https://mathblog.com/category/math-education/">Math Education</a></li>
+<li id="menu-item-108818" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108818"><a href="https://mathblog.com/category/probability-theory-and-statistics/">Statistics</a></li>
+<li id="menu-item-108819" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108819"><a href="https://mathblog.com/category/math-news/">Math News</a></li>
+<li id="menu-item-108815" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108815"><a href="https://mathblog.com/category/history/">History</a></li>
+</ul>															</nav>
+											</div>         
+				</div><!--.container-->
+			</div>
+		</header>
+		<div id="page" class="single">
+
+		
+	<article class="article">
+		<div id="content_box" >
+							<div id="post-119969" class="g post post-119969 type-post status-publish format-standard hentry category-applied-math category-math-education category-books tag-book-reviews tag-discrete-mathematics tag-joseph-rosenstein mv-content-wrapper">
+											<div class="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#"><div><i class="fa fa-home"></i></div> <div typeof="v:Breadcrumb" class="root"><a rel="v:url" property="v:title" href="https://mathblog.com">Home</a></div><div><i class="fa fa-caret-right"></i></div><div typeof="v:Breadcrumb"><a href="https://mathblog.com/category/applied-math/" rel="v:url" property="v:title">Applied Math</a></div><div><i class="fa fa-caret-right"></i></div><div><span>Review: Problem Solving and Reasoning With Discrete Mathematics</span></div></div>
+																		<div class="single_post">
+									<header>
+																				<h1 class="title single-title entry-title">Review: Problem Solving and Reasoning With Discrete Mathematics</h1>
+												<div class="post-info">
+              	            <span class="theauthor"><i class="fa fa-user"></i> <span><a href="https://mathblog.com/author/mgoldenberg/" title="Posts by Michael Goldenberg" rel="author">Michael Goldenberg</a></span></span>
+	        	            <span class="thecategory"><i class="fa fa-tags"></i> <a href="https://mathblog.com/category/applied-math/" title="View all posts in Applied Math">Applied Math</a>, <a href="https://mathblog.com/category/math-education/" title="View all posts in Math Education">Math Education</a>, <a href="https://mathblog.com/category/books/" title="View all posts in Suggested Reading">Suggested Reading</a></span>
+	        	            <span class="thetime date updated"><i class="fa fa-calendar"></i> <span>November 21, 2017</span></span>
+	        	            <span class="thecomment"><i class="fa fa-comments"></i> <a href="https://mathblog.com/review-problem-solving-reasoning-discrete-mathematics/#comments" itemprop="interactionCount">4 Comments</a></span>
+	        		</div>
+										</header><!--.headline_area-->
+									<div class="post-single-content box mark-links entry-content">
+																															<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://cdn.mathblog.com/wp-content/uploads/2017/11/Discrete-Math.jpg"><img class="aligncenter size-full wp-image-119970" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-layzr="https://cdn.mathblog.com/wp-content/uploads/2017/11/Discrete-Math.jpg" alt="" width="218" height="218" data-layzr-srcset="https://cdn.mathblog.com/wp-content/uploads/2017/11/Discrete-Math.jpg 218w, https://cdn.mathblog.com/wp-content/uploads/2017/11/Discrete-Math-150x150.jpg 150w, https://cdn.mathblog.com/wp-content/uploads/2017/11/Discrete-Math-65x65.jpg 65w, https://cdn.mathblog.com/wp-content/uploads/2017/11/Discrete-Math-50x50.jpg 50w" sizes="(max-width: 218px) 100vw, 218px" /></a></p>
+<div id="contentsContainer">
+<div id="contents">
+<p id="E44"><span id="E45">Book Review: PROBLEM SOLVING<a href="https://www.amazon.com/Problem-Solving-Reasoning-Discrete-Mathematics/dp/0974772488/ref=sr_1_7?ie=UTF8&amp;qid=1511304037&amp;sr=8-7&amp;keywords=Joseph+G+Rosenstein"> AND REASONING WITH DISCRETE MATHEMATICS </a></span><span id="E47">by Dr. Joseph G. Rosenstein</span></p>
+<p id="E49"><span id="E50">US K-12 mathematics has long been dominated by the notion that any legitimate pathway through high school and into college requires passing over Calculus Mountain. It isn’t a real mountain, but it might as well be for those who wish to pursue certain professions, not all of which actually make use of calculus at the graduate or professional school level or indeed in those professions in the field. In particular, medicine, dentistry, veterinary medicine, and other prestigious branches of “the healing arts” make calculus an absolute hurdle for those who wish to qualify for professional training. And the results can be harmful not only to individuals who are thus shut out because they can’t get over Calculus Mountain but to the professions themselves and the public they serve. Few doctors outside of those doing research ever use one lick of calculus outside of their undergraduate education, but only those who can “cut it” for four semesters in college are going to get into the requisite professional schools. And not all those who make it are necessarily the best-suited to be healers; neither are all those who are kept out necessarily otherwise ill-qualified. </span></p>
+<p id="E52"><span id="E53">The above issues aside, there seems to be a factor of inertia and traditionalism that keeps calculus as the “One True Grail” for school mathematics. And to ask why this need be the only path for our students is to risk being branded a heretic. One person who has challenged the received wisdom is Dr. Joseph</span><span id="E54"> G. Rosenstein, an emeritus professor of mathematics at Rutgers University. He’s done so not by attacking analysis, but by offering a major alternative for students in K-12: discrete mathematics. In the introduction to his textbook, PROBLEM SOLVING AND REASONING with DISCRETE MATHEMATICS, he writes that the text, “addresses five types of issues related to problem solving and reasoning: (a) strategies for solving problems, (b) thinking and acting systematically, (c) mathematical reasoning, (d) mathematical modeling, and (e) mathematical practice. Although many of the mathematical topics in this book are not addressed in the current version of the Common Core State Standards, these five types of issues play a major role in what the standards refer to as “Standards for Mathematical Practice.” </span></p>
+<p id="E56"><span id="E57">Dr. Rosenstein’s textbook offers a coherent treatment of a major strand of mathematics that has many of the most important qualities of both abstract and applied math, including rigorous thinking and proving, utility, and beauty, all of which can be accessible to K-12 students who many not necessarily have been drawn to or successful with every aspect of the traditional curriculum. In these senses, Rosenstein provides a pathway that exemplifies the heart and soul of the Standards for Mathematical Practice, the piece of the Common Core Mathematics Standards that to my thinking exists above and beyond any particular list or sequencing of topics in the Content Standards.</span></p>
+<p id="E59"><span id="E60">Further, his book is eminently accessible to a broad range of students and teachers. He has selected from the most appealing areas of discrete mathematics, starting with coloring, graphs, counting, and paths and circuits, all of which provide students with the opportunity to dive into serious math and be successful with it. The problems are chosen to be thought-provoking and engaging, with a mix of the concrete, the abstract, the applied, and the esthetic. Teachers who are not themselves deeply familiar with one or more of the topics can readily explore discrete mathematics with students in ways that </span></p>
+</div>
+</div>
+<div id="pageBorders"></div>
+<div id="contentsContainer">
+<div id="contents">
+<p>would benefit everyone. Those who have a background in discrete mathematics will find plenty of familiar and new problems to challenge both their students and themselves.</p>
+<p id="E-4089"><span id="E-4252">As someone who loves discrete mathematics, I am truly excited to see this book appear just at a time when the United States needs to find alternatives for students who have not been well-served by the traditional curriculum for K-12 math. While no textbook can guarantee that it will instantly make students love mathematics who have heretofore feared and loathed the subject, I believe Rosenstein&#8217;s book comes close to offering a vast range of students a tempting invitation to reconsider math as something enjoyable, beautiful, and perhaps most importantly, understandable. Nothing breeds success like success, and with this book, students will be able to succeed in authentic mathematical problem-solving, regardless of previous experiences.</span></p>
+</div>
+</div>
+<span id="tho-end-content" style="display: block; visibility: hidden;"></span>
+            <script type="text/javascript">
+            jQuery(document).ready(function($) {
+                $.post('https://mathblog.com/wp-admin/admin-ajax.php', {action: 'mts_view_count', id: '119969'});
+            });
+            </script>																																							</div><!--.post-single-content-->
+								</div><!--.single_post-->
+																<div class="tags"><span class="tagtext">Tags:</span><a href="https://mathblog.com/tag/book-reviews/" rel="tag">book reviews</a>, <a href="https://mathblog.com/tag/discrete-mathematics/" rel="tag">discrete mathematics</a>, <a href="https://mathblog.com/tag/joseph-rosenstein/" rel="tag">Joseph Rosenstein</a></div>								  		<!-- Start Related Posts -->
+  		<div class="related-posts"><h4>Related Posts</h4><div class="clear">  			<article class="latestPost excerpt  ">
+                                    <header>
+					<h2 class="title front-view-title"><a href="https://mathblog.com/genius-breakthroughs-and-the-manhattan-project/" title="Genius, Breakthroughs, and the Manhattan Project">Genius, Breakthroughs, and the Manhattan Project</a></h2>
+				</header>
+              </article><!--.post.excerpt-->
+  			  			<article class="latestPost excerpt  ">
+                                    <header>
+					<h2 class="title front-view-title"><a href="https://mathblog.com/whats-hiding-within-long-division/" title="What&#8217;s Hiding Within Long Division?">What&#8217;s Hiding Within Long Division?</a></h2>
+				</header>
+              </article><!--.post.excerpt-->
+  			  			<article class="latestPost excerpt  last">
+                                    <header>
+					<h2 class="title front-view-title"><a href="https://mathblog.com/10-remarkable-female-mathematicians/" title="Have You Heard of These 10 Female Mathematicians">Have You Heard of These 10 Female Mathematicians</a></h2>
+				</header>
+              </article><!--.post.excerpt-->
+  			</div></div>  		<!-- .related-posts -->
+  									<div class="postauthor">
+									<h4>About The Author</h4>
+									<img alt='' src='https://secure.gravatar.com/avatar/457375c2686d2ce6aa9740f00ee2f8f4?s=100&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/457375c2686d2ce6aa9740f00ee2f8f4?s=200&#038;d=identicon&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' loading='lazy'/>									<h5 class="vcard author"><a href="https://mathblog.com/author/mgoldenberg/" class="fn">Michael Goldenberg</a></h5>
+									<p>I am a mathematics educator with over 30 years' experience teaching mathematics at the elementary, middle school, high school, and community college levels. I have master's degree in mathematics education from the University of Michigan-Ann Arbor. In another lifetime, I earned a master's in English from the University of Florida. I have been field supervisor of secondary mathematics student teachers for the University of Michigan, where I also taught mathematics methods courses to prospective elementary teachers. I've been a math content coach for elementary and secondary in-service teachers in Detroit, Pontiac, Warren, Ypsilanti, and other high-needs districts in Michigan, as well as in New York City. 
+
+I have a dormant math blog, RationalMathEd, in which I attempted to do some good in sorting out the "Math Wars." I was a founding member of the math education information site, Mathematically Sane.
+
+I have a 22-year-old son, Zane, who is studying to be a biomedical engineer, and five rescue cats: Dante, Arya, Athos, Lyra, and Sterling, as well as the scars to prove it. When not teaching, blogging, or stirring the pot, I play a reasonably dangerous game of table tennis.</p>
+								</div>
+												</div><!--.g post-->
+				<!-- You can start editing here. -->
+	<div id="comments">
+		<h4 class="total-comments">4 Comments</h4>
+		<ol class="commentlist">
+			    	<li class="comment even thread-even depth-1" id="li-comment-30025">
+    		                    <div id="comment-30025" itemscope itemtype="http://schema.org/UserComments">
+                        <div class="comment-author vcard">
+                            <img alt='' src='https://secure.gravatar.com/avatar/0084da7e640a30c008dc7680b920c39b?s=80&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/0084da7e640a30c008dc7680b920c39b?s=160&#038;d=identicon&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy'/>                            <span class="fn" itemprop="creator" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href='https://www.bci.edu.bd/' rel='external nofollow ugc' class='url'>Bci Engineering Institute</a></span></span>                                                            <span class="ago">February 26, 2018</span>
+                                                        <span class="comment-meta">
+                                                            </span>
+                        </div>
+                                                <div class="commentmetadata">
+                            <div class="commenttext" itemprop="commentText">
+                                <div class="comment-text-inner"><p>The Textile industry is in a period of rapid and revolutionary modernization and automation in India. The engineers graduated in Textile Engineering are equipped with the knowledge of the behavior of textile materials and the functions of machinery in textile and clothing technologies.</p>
+</div>                            </div>
+                            <div class="reply">
+                                <a rel='nofollow' class='comment-reply-link' href='#comment-30025' data-commentid="30025" data-postid="119969" data-belowelement="comment-30025" data-respondelement="respond" data-replyto="Reply to Bci Engineering Institute" aria-label='Reply to Bci Engineering Institute'>Reply</a>                            </div>
+                        </div>
+                    </div>
+                    	<!-- WP adds </li> -->
+    </li><!-- #comment-## -->
+    	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-30071">
+    		                    <div id="comment-30071" itemscope itemtype="http://schema.org/UserComments">
+                        <div class="comment-author vcard">
+                            <img alt='' src='https://secure.gravatar.com/avatar/c505c56fbde618c0d1083a221315e834?s=80&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/c505c56fbde618c0d1083a221315e834?s=160&#038;d=identicon&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy'/>                            <span class="fn" itemprop="creator" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href='https://www.dotnetlanguages.net' rel='external nofollow ugc' class='url'>Tracy Woo</a></span></span>                                                            <span class="ago">June 27, 2018</span>
+                                                        <span class="comment-meta">
+                                                            </span>
+                        </div>
+                                                <div class="commentmetadata">
+                            <div class="commenttext" itemprop="commentText">
+                                <div class="comment-text-inner"><p>The contents are very helpful. As you described the five types of issues and the solutions like problem-solving and reasons behind the problems, systematically techniques, mathematical reasons behind, modeling and practice. Thanks a lot for sharing.</p>
+</div>                            </div>
+                            <div class="reply">
+                                <a rel='nofollow' class='comment-reply-link' href='#comment-30071' data-commentid="30071" data-postid="119969" data-belowelement="comment-30071" data-respondelement="respond" data-replyto="Reply to Tracy Woo" aria-label='Reply to Tracy Woo'>Reply</a>                            </div>
+                        </div>
+                    </div>
+                    	<!-- WP adds </li> -->
+    </li><!-- #comment-## -->
+    	<li class="comment even thread-even depth-1" id="li-comment-30161">
+    		                    <div id="comment-30161" itemscope itemtype="http://schema.org/UserComments">
+                        <div class="comment-author vcard">
+                            <img alt='' src='https://secure.gravatar.com/avatar/6a394bdbc356bce14a8fafeef82ad36f?s=80&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/6a394bdbc356bce14a8fafeef82ad36f?s=160&#038;d=identicon&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy'/>                            <span class="fn" itemprop="creator" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href='https://www.unibenforum.com.ng' rel='external nofollow ugc' class='url'>Kelvin</a></span></span>                                                            <span class="ago">February 12, 2019</span>
+                                                        <span class="comment-meta">
+                                                            </span>
+                        </div>
+                                                <div class="commentmetadata">
+                            <div class="commenttext" itemprop="commentText">
+                                <div class="comment-text-inner"><p>Nice write-up<br />
+I&#8217;ve bookmarked your site</p>
+</div>                            </div>
+                            <div class="reply">
+                                <a rel='nofollow' class='comment-reply-link' href='#comment-30161' data-commentid="30161" data-postid="119969" data-belowelement="comment-30161" data-respondelement="respond" data-replyto="Reply to Kelvin" aria-label='Reply to Kelvin'>Reply</a>                            </div>
+                        </div>
+                    </div>
+                    	<!-- WP adds </li> -->
+    </li><!-- #comment-## -->
+    	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-30350">
+    		                    <div id="comment-30350" itemscope itemtype="http://schema.org/UserComments">
+                        <div class="comment-author vcard">
+                            <img alt='' src='https://secure.gravatar.com/avatar/3d3ccf1fe7469cfabe9abbba3f6700ab?s=80&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/3d3ccf1fe7469cfabe9abbba3f6700ab?s=160&#038;d=identicon&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy'/>                            <span class="fn" itemprop="creator" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Ken Abbott</span></span>                                                            <span class="ago">December 5, 2020</span>
+                                                        <span class="comment-meta">
+                                                            </span>
+                        </div>
+                                                <div class="commentmetadata">
+                            <div class="commenttext" itemprop="commentText">
+                                <div class="comment-text-inner"><p>Speaking of Discrete Mathematics here&#8217;s a short blog post I wrote on the subject..<br />
+<a href="https://www.math-math.com/2018/02/the-calculus-that-got-ignored.html" rel="nofollow ugc">https://www.math-math.com/2018/02/the-calculus-that-got-ignored.html</a></p>
+</div>                            </div>
+                            <div class="reply">
+                                <a rel='nofollow' class='comment-reply-link' href='#comment-30350' data-commentid="30350" data-postid="119969" data-belowelement="comment-30350" data-respondelement="respond" data-replyto="Reply to Ken Abbott" aria-label='Reply to Ken Abbott'>Reply</a>                            </div>
+                        </div>
+                    </div>
+                    	<!-- WP adds </li> -->
+    </li><!-- #comment-## -->
+		</ol>
+	</div>
+
+	<div id="commentsAdd">
+		<div id="respond" class="box m-t-6">
+				<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h4><span>Leave a Reply</span></h4> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/review-problem-solving-reasoning-discrete-mathematics/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://mathblog.com/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p class="comment-form-comment"><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true" placeholder="Comment Text*"></textarea></p><p class="comment-form-author"><input id="author" name="author" type="text" placeholder="Name*" value="" size="30" /></p>
+<p class="comment-form-email"><input id="email" name="email" type="text" placeholder="Email*" value="" size="30" /></p>
+<p class="comment-form-url"><input id="url" name="url" type="text" placeholder="Website" value="" size="30" /></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='119969' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="d3ddd08a65" /></p><!-- Anti-spam plugin wordpress.org/plugins/anti-spam/ --><div class="wantispam-required-fields"><input type="hidden" name="wantispam_t" class="wantispam-control wantispam-control-t" value="1647197702" /><div class="wantispam-group wantispam-group-q" style="clear: both;">
+					<label>Current <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6d14082d1f">[email&#160;protected]</a> <span class="required">*</span></label>
+					<input type="hidden" name="wantispam_a" class="wantispam-control wantispam-control-a" value="2022" />
+					<input type="text" name="wantispam_q" class="wantispam-control wantispam-control-q" value="7.2.9" autocomplete="off" />
+				  </div>
+<div class="wantispam-group wantispam-group-e" style="display: none;">
+					<label>Leave this field empty</label>
+					<input type="text" name="wantispam_e_email_url_website" class="wantispam-control wantispam-control-e" value="" autocomplete="off" />
+				  </div>
+</div><!--\End Anti-spam plugin --><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="155"/><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+			</div>
+	</div>
+					</div>
+	</article>
+		<aside id="sidebar" class="sidebar c-4-12 mts-sidebar-sidebar" role="complementary" itemscope itemtype="http://schema.org/WPSideBar">
+		<div id="text-5" class="widget widget_text"><h3 class="widget-title">Recommended Math Books</h3>			<div class="textwidget"><p align="center"><a href="/mathematics-books/">Click here to see our math book list.</a></p>
+
+<p align="center"><a href="/mathematics-books/"><img src="/images/math-books.png" alt="Mathematics Books" title="Math Books" width="250" height="238" loading="lazy"/></a></p></div>
+		</div><div id="search-3" class="widget widget_search"><h3 class="widget-title">Search</h3><form method="get" id="searchform" class="search-form" action="https://mathblog.com" _lpchecked="1">
+	<fieldset>
+		<input type="text" name="s" id="s" value="" placeholder="Search the site"  />
+		<button id="search-image" class="sbutton" type="submit" value="Search">Search</button>
+	</fieldset>
+</form>
+</div><div id="linkcat-2" class="widget widget_links"><h3 class="widget-title">Useful Links</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="https://www.math.columbia.edu/~woit/wordpress/">Not Even Wrong</a></li>
+<li><a href="https://polymathematics.typepad.com/polymath/">Polymathematics</a></li>
+<li><a href="https://unapologetic.wordpress.com">The Unapologetic Mathematician</a></li>
+
+	</ul>
+</div>
+	</aside><!--#sidebar-->
+	</div><!--#page-->
+	<footer id="site-footer" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
+                <div class="copyrights">
+			<div class="container">
+                <!--start copyrights-->
+<div class="row" id="copyright-note">
+<span><a href=" https://mathblog.com/" title=" Mathematics is wonderful!">Math ∞ Blog</a> Copyright &copy; 2022.</span>
+<div class="to-top">&nbsp;</div>
+</div>
+<!--end copyrights-->
+            </div>
+		</div> 
+	</footer><!--#site-footer-->
+</div><!--.main-container-->
+        <!--start footer code-->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-192905992-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-192905992-1');
+</script>    <!--end footer code-->
+    <script type='text/javascript' src='https://cdn.mathblog.com/wp-content/plugins/anti-spam/assets/js/anti-spam.js' id='anti-spam-script-js'></script>
+<script type='text/javascript' src='https://cdn.mathblog.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://cdn.mathblog.com/wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/mathblog.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.mathblog.com/wp-content/plugins/contact-form-7/includes/js/index.js' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://cdn.mathblog.com/wp-content/plugins/thrive-headline-optimizer/frontend/js/triggers.min.js' id='tho-footer-js-js'></script>
+<script type='text/javascript' src='https://cdn.mathblog.com/wp-content/plugins/wp-review-pro/assets/js/jquery.appear.js' id='wp_review-jquery-appear-js'></script>
+<script type='text/javascript' id='wp_review-js-js-extra'>
+/* <![CDATA[ */
+var wpreview = {"ajaxurl":"https:\/\/mathblog.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.mathblog.com/wp-content/plugins/wp-review-pro/assets/js/main.js' id='wp_review-js-js'></script>
+<script type='text/javascript' src='https://cdn.mathblog.com/wp-content/plugins/wp-review-pro/assets/js/jquery.knob.min.js' id='jquery-knob-js'></script>
+<script type='text/javascript' src='https://cdn.mathblog.com/wp-includes/js/comment-reply.min.js' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://cdn.mathblog.com/wp-content/themes/mts_schema/js/jquery.magnific-popup.min.js' id='magnificPopup-js'></script>
+<script type='text/javascript' src='https://cdn.mathblog.com/wp-content/themes/mts_schema/js/layzr.min.js' id='layzr-js'></script>
+<script type="text/javascript">/*<![CDATA[*/var THO_Front = THO_Front || {}; THO_Front.data = {"end_of_content_id":"tho-end-content","is_single":true,"log_url":"https:\/\/mathblog.com\/wp-json\/tho\/v1\/logs","active_triggers":{"viewport":"thrive_headline"},"log_engagements":[],"post_id":119969,"test_id":0,"const":{"_e_click":1,"_e_scroll":2,"_e_time":3,"_impression":1,"_engagement":2}}/*]]> */</script></body>
+</html>
